@@ -24,6 +24,12 @@ Este projeto foi um laboratório prático para consolidar conceitos de:
 - Pygame: Engine gráfica e gerenciamento de eventos.
 - Math: Para os cálculos de ondulação e cores dinâmicas.
 
+## 🎮 Demonstração
+
+<p align="center">
+  <img src="snake.gif" alt="Demonstração do Snake Game" width="500"/>
+</p>
+
 ## 🚀 Funcionalidades
 - 5 Skins Disponíveis: Seleção visual com preview animado.
 - Dificuldade Progressiva: A velocidade aumenta conforme você pontua, desafiando seus reflexos.
